@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhusalprabhat
 - 👀 I’m interested in game development,web development and software development.
-- 🌱 I’m currently learning web development.
+- 🌱 Beginner at HTML and CSS.
 
 
 <!---
